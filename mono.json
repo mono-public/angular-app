@@ -1,0 +1,8 @@
+{
+  "mfe": {
+    "name": "mfe",
+    "widgets": {
+      "./Module": "./projects/mfe/src/app/flights/flights.module.ts"
+    }
+  }
+}
